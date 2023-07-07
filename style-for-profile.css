@@ -6,7 +6,8 @@
     /* created using css-generator */
     /* should the BG color be set using div in the linked html doc? */
 }
-/* CSS reset (*) to make styles look as identical as possible */
+/* CSS reset (*) to make styles look as identical as possible across browsers */
+
 
 .main-header {color: red}
 
@@ -36,12 +37,15 @@ li {color: white;}
 
 a:hover {color: red}
 a {font-size: xx-large;}
+
 img {
 width: 20%;
 height: 20%;
 border-radius: 50%;
 border: 5px solid indigo
 }
+
+
 
 /* To get used to the basics of positioning elements with CSS, make sure you use some of the following properties at least once:
 
