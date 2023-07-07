@@ -1,0 +1,54 @@
+* {
+    margin: 100;
+    padding: 10;
+    box-sizing: border-box;
+    background-color: #679ed5; 
+    /* created using css-generator */
+    /* should the BG color be set using div in the linked html doc? */
+}
+/* CSS reset (*) to make styles look as identical as possible */
+
+.main-header {color: red}
+
+.second-header {color: orange}
+
+.third-header {color: rgb(239, 201, 11)}
+
+.fourth-header {color: green;}
+
+.fifth-header {color: blue;}
+
+.main-header {font-family: Arial, Helvetica, sans-serif;}
+
+.second-header {font-family: Arial, Helvetica, sans-serif;}
+
+.third-header {font-family: Arial, Helvetica, sans-serif;}
+
+.fourth-header {font-family: Arial, Helvetica, sans-serif;}
+
+.fifth-header {font-family: Arial, Helvetica, sans-serif;}
+
+p {font-size: larger;}
+
+li {color: white;}
+
+.main-header {text-align: center;}
+
+a:hover {color: red}
+a {font-size: xx-large;}
+img {
+width: 20%;
+height: 20%;
+border-radius: 50%;
+border: 5px solid indigo
+}
+
+/* To get used to the basics of positioning elements with CSS, make sure you use some of the following properties at least once:
+
+Margin
+Padding
+Text-align
+Additional positioning tasks:
+
+Try to affect only the bottom and left margins of an element
+Try to alter the padding of an element with different values for the top, right, bottom and left */
